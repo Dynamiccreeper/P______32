@@ -77,7 +77,7 @@ function draw(){
     b10.score();
 
    
-ground.display();
+//ground.display();
 
     //log6.display();
     slingshot.display();    
