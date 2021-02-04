@@ -1,4 +1,4 @@
-class Hex {
+class Box {
     constructor(x, y) {
       var options = {
         'density':1.5,
